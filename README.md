@@ -13,6 +13,7 @@ This Repo consists of data-structures and algorithms sorted by programming langu
 - It is your choice to include only the function or the entire program for the algo.
 - If folder for your language does not exist, create a new one.
 - Don't be afraid to make a PR!
+-if you are unaware of the project eventhough try to contribute by reading the guide.
 
 ### How to make PR
 1. Fork Repo onto your own account.
